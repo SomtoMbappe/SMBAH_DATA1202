@@ -1,11 +1,22 @@
-Hello
+#data1202
 
-The python file uploaded is a Do it Yourself (DIY) code on how to use Python (pandas) for preprocessing data
+This is a Python library to learn how to use pandas for preprocessing and dealing with data.
 
-By the end of the lab, you will be familiar with all methods and functions for preprocessing a dataset
+## Installation
 
-The steps are very self explanatory and easy to follow
+Use the package manager [pip](https://jupyter.org/install) to install Jupyter notebook.
 
-Enjoy learning!
+## Deployment
+Use jupyter notebook to run file
 
-<DATA1202 ASSIGNMENT>
+## Author: Omar Al-Trad
+
+## Acknowledgement: Durham College of Applied Arts & Technology
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
