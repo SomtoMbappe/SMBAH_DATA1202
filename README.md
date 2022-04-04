@@ -1,5 +1,6 @@
-#data1202
+## DATA1202
 
+## Description
 This is a Python library to learn how to use pandas for preprocessing and dealing with data.
 
 ## Installation
